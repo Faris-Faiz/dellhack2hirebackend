@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571037446034",
+    "project_id": "natural-quasar-358010",
+    "storage_bucket": "natural-quasar-358010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571037446034:android:2d5a026fefcf64ba75db4b",
+        "android_client_info": {
+          "package_name": "com.example.dellhack2hirebackend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571037446034-nc1f3auutj9ujstimi8sjf92va4ggalu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtVFybj8Tjj7A4euL_i1Nu0vjXpClBnR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571037446034-nc1f3auutj9ujstimi8sjf92va4ggalu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
